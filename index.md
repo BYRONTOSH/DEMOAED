@@ -40,5 +40,6 @@ layout: default
   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/insercion" target="_blank">Inserción</a></li>
   <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/seleccion" target="_blank">Selección</a></li>
    <li><a href="https://github.com/BYRONTOSH/Ordenamiento/tree/mergesort" target="_blank">MergeSort</a></li>
+   <li><a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a></li>
   
 </ol>
